@@ -112,3 +112,4 @@ service-worker: true
 #        href: "https://developer.apple.com/"
 #    }
 #]
+plugins: [jekyll-paginate]
