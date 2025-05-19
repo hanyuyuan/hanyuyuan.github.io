@@ -12,7 +12,7 @@ github_repo: "https://github.com/hanyuyuan/hanyuyuan.github.io" # you code repos
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "面包会有的!"
-sidebar-avatar: /img/about-YYJ-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/肉人.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
